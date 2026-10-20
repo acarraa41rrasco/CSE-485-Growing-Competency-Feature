@@ -1,5 +1,6 @@
 #!/bin/bash
 # created a title for this health checking application
+# now to add a status check comment for feature branch
 echo "--Git Reposo Health Check--"
 # the scanning in progress message along with spacer
 echo "Scanning current directory for Git repos..."
