@@ -25,3 +25,4 @@ for d in */; do
     fi
 done
 echo "Health check has been COMPLETED!!"
+echo "TESTING ONE FEATURE for health sequence"
